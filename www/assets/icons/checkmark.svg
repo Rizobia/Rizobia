@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="21" height="21" viewBox="0 0 21 21">
+  <g id="checkmark" transform="translate(-74 -43)">
+    <g id="Group_23" data-name="Group 23" transform="translate(54 28)">
+      <g id="Group_21" data-name="Group 21" transform="translate(25.853 22.598)">
+        <path id="Path_7" data-name="Path 7" stroke="#2fe058" d="M65,140.664l3.426,3.426,6.09-6.09" fill="none" transform="translate(-65 -138)" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5" stroke-width="2" fill-rule="evenodd"/>
+      </g>
+      <circle id="Ellipse_9" data-name="Ellipse 9" cx="9.5" cy="9.5" r="9.5" transform="translate(21 16)" stroke-width="2" stroke="#2f4858" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5" fill="none"/>
+    </g>
+  </g>
+</svg>
